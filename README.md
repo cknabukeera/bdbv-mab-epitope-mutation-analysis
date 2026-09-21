@@ -1,6 +1,6 @@
 # bdbv-mab-epitope-mutation-analysis
 
-Genomic and structural analysis of monoclonal antibody (mAb) epitopes on the Bundibugyo virus (BDBV) glycoprotein (GP), to assess the predicted efficacy of Ebola virus (EBOV) mAbs against the 2026 Bundibugyo virus disease (BVD) outbreak in the Democratic Republic of the Congo and Uganda.
+Genomic and structural analysis of monoclonal antibody (mAb) epitopes on the Bundibugyo virus (BDBV) glycoprotein (GP), to assess the predicted efficacy of Ebola virus (EBOV) mAbs against the 2026 Bundibugyo virus disease (BVD) outbreak in the Democratic Republic of the Congo and Uganda. Therefore, we aimed to answer two questions; how different is Zaire from  our BDBV, and could existing Zaire mAbs neutralize it?
 
 **Published paper:**
 
