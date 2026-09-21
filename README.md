@@ -82,7 +82,7 @@ Computations were run on the HPC infrastructure at ACE-Uganda, Makerere Universi
 
 ## Requirements
 
-- Python and PyRosetta [versions]; Rosetta (FastRelax, ddG) [version]
+- Python and PyRosetta, Rosetta (FastRelax, ddG)
 - AlphaFold 3 
 - Nextclade, SIFT4G, EMBOSS, Clustal Omega
 - UCSF ChimeraX and PyMOL for visualization
@@ -104,6 +104,3 @@ Full author list in the paper.
 **First author:** Kevin Cissy Nabukeera, [kc.nabukeera@gmail.com] | ORCID: https://orcid.org/0009-0009-8319-1853
 
 **Corresponding author:** Daudi Jjingo, [djjingo@idi.co.ug]
-
-
-
