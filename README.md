@@ -17,11 +17,11 @@ This repository contains the code, data references and results for an in silico 
 
 - 44 BDBV whole-genome sequences from Uganda and DRC (2007, 2012 and 2026 outbreaks, including 12 from the 2026 outbreak, retrieved 25 May 2026),
 - To crosscheck the validity of mutations observed above across the outbreak,
-- further 462 sequences of the 2026 BDBV outbreak from Pathoplexus (as of Aug 13, 2026) were assessed for presence and preservation of these mutations across the 2026 BDBV outbreak genomes.
-- mapping of mAb epitopes from EBOV GP onto BDBV GP,
+- Further 462 sequences of the 2026 BDBV outbreak from Pathoplexus (as of Aug 13, 2026) were assessed for presence and preservation of these mutations across the 2026 BDBV outbreak genomes.
+- Mapping of mAb epitopes from EBOV GP onto BDBV GP,
 - AlphaFold 3 modelling of GP-antibody complexes,
 - Rosetta in silico mutagenesis and binding-energy calculations,
-- glycosylation modelling at Asn563.
+- Glycosylation modelling at Asn563.
 
 ## Data used
 ### Genome sequences
