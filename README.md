@@ -83,7 +83,7 @@ Computations were run on the HPC infrastructure at ACE-Uganda, Makerere Universi
 ## Requirements
 
 - Python and PyRosetta [versions]; Rosetta (FastRelax, ddG) [version]
-- AlphaFold 3 [access/version]
+- AlphaFold 3 
 - Nextclade, SIFT4G, EMBOSS, Clustal Omega
 - UCSF ChimeraX and PyMOL for visualization
 - Geneious Prime v2026.1.1 (commercial; used for alignment and annotation)
