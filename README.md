@@ -52,8 +52,8 @@ The 44 BDBV whole-genome sequences used in this study were obtained from
 ### Reference sequences and Protein structures
 | Data | Source | Notes |
 |------|--------|-------|
-| EBOV GP reference | NP_066246.1 | |
-| BDBV GP reference (2007) | YP_003815435.1 | |
+| EBOV GP reference | NP_066246.1 | NC_002549.1|
+| BDBV GP reference (2007) | YP_003815435.1 |NC_014373.1|
 | Experimental structures | PDB: 5FHC (EBOV GP-mAb114), 7TN9 (EBOV GP-Inmazeb), 6EA7 and 6MAM (EBOV GP with ADI-15878 / ADI-15946), 6DZM (BDBV GP-ADI-15878) | |
 
 ## Key findings
