@@ -103,4 +103,4 @@ Full author list in the paper.
 
 **First author:** Kevin Cissy Nabukeera, [kc.nabukeera@gmail.com] | ORCID: https://orcid.org/0009-0009-8319-1853
 
-**Corresponding author:** Daudi Jjingo, [djjingo@idi.co.ug]
+**Corresponding author:** Dr. Daudi Jjingo, [djjingo@idi.co.ug]
