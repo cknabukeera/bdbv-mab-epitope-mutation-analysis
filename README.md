@@ -2,11 +2,15 @@
 
 Genomic and structural analysis of monoclonal antibody (mAb) epitopes on the Bundibugyo virus (BDBV) glycoprotein (GP), to assess the predicted efficacy of Ebola virus (EBOV) mAbs against the 2026 Bundibugyo virus disease (BVD) outbreak in the Democratic Republic of the Congo and Uganda. Therefore, we aimed to answer two questions; how different is Zaire from  our BDBV, and could existing Zaire mAbs neutralize it?
 
-**Published paper:**
+**Published paper:** *Early insights into predicted efficacy of Ebola monoclonal antibodies for the 2026 Bundibugyo virus disease outbreak*
+DOI:https://www.nature.com/articles/s41467-026-78077-9
 
-**Preprint Paper:** *Early insights into predicted efficacy of Ebola monoclonal antibodies for the 2026 Bundibugyo virus disease outbreak*
+**Preprint Paper:** *Early insights into viability of Ebola monoclonal antibodies for the 2026 Bundibugyo virus disease outbreak*
 Preprint: DOI:https://doi.org/10.21203/rs.3.rs-10270397/v1
 
+**collaborative Paper:** *Emergence of a Bundibugyo virus variant in the 2026 outbreak in the Democratic Republic of the Congo and Uganda*
+DOI:https://www.nature.com/articles/s41591-026-04628-8
+ - This Paper shows the 2026 BDBV Genomes used in the Structural Predictions study
 ---
 
 ## Overview
