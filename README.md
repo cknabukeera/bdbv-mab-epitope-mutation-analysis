@@ -99,8 +99,7 @@ Computations were run on the HPC infrastructure at ACE-Uganda, Makerere Universi
 If you use this repository, please cite:
 
 ```
-Nabukeera KC, Luakanda-Ndelemo G, Semawule S, et al. (2026). Early insights into viability of
-Ebola monoclonal antibodies for the 2026 Bundibugyo virus disease outbreak.DOI: 10.21203/rs.3.rs-10270397/v1
+Nabukeera, K.C., Luakanda-Ndelemo, G., Semawule, S. et al. Early insights into predicted efficacy of Ebola monoclonal antibodies for the 2026 Bundibugyo virus disease outbreak. Nat Commun (2026). https://doi.org/10.1038/s41467-026-78077-9
 ```
 
 ## Authors and contact
