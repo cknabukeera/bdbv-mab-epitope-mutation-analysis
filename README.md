@@ -10,7 +10,7 @@ Preprint: DOI:https://doi.org/10.21203/rs.3.rs-10270397/v1
 
 **collaborative Paper:** *Emergence of a Bundibugyo virus variant in the 2026 outbreak in the Democratic Republic of the Congo and Uganda*
 DOI:https://www.nature.com/articles/s41591-026-04628-8
- - This Paper shows the 2026 BDBV Genomes used in the Structural Predictions study
+ - This Paper shows the 2026 outbreak BDBV Genomes from DRC and Uganda from the routine Ebola surviellance used in the Structural Predictions study
 ---
 
 ## Overview
