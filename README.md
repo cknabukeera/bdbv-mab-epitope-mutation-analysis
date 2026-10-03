@@ -30,12 +30,11 @@ This repository contains the code, data references and results for an in silico 
 ## Data used
 ### Genome sequences
 
-The 44 BDBV whole-genome sequences used in this study were obtained from
+The 44 BDBV whole-genome sequences from DRC and Uganda used in this study were obtained from
 [Pathoplexus](https://pathoplexus.org). Accession numbers are listed in
 [`data/pathoplexus_accessions.txt`](data/pathoplexus_accessions.txt) and below.
 
-<details>
-<summary>Pathoplexus accessions (n = 44)</summary>
+**Pathoplexus accessions (n = 44)**
 
 | # | Accession | # | Accession | # | Accession | # | Accession |
 |---|-----------|----|-----------|----|-----------|----|-----------|
@@ -51,7 +50,9 @@ The 44 BDBV whole-genome sequences used in this study were obtained from
 | 10 | PP_006Y8Q8.2 | 21 | PP_006X6LL.1 | 32 | PP_006X6YW.1 | 43 | PP_006X68B.1 |
 | 11 | PP_006Y8R6.1* | 22 | PP_006X6MJ.1 | 33 | PP_006X60T.1 | 44 | PP_006X699.1 |
 
-</details>
+
+
+This analysis was extended to further 462 BDBV sequences of the 2026 Outbreak (August, 13,2026). These as well are present on Pathoplexus.
 
 ### Reference sequences and Protein structures
 | Data | Source | Notes |
