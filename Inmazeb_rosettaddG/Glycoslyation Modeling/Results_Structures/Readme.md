@@ -1,6 +1,6 @@
-Here, we have structures showing the glycan added to the BDBDV-GP-mAb-complex
+### The glycosylated REGN349_BDBV-GP complex
 
-The glycosylated REGN349_BDBV-GP complex.
+Here, we have structures showing the glycan added to the BDBDV-GP-mAb-complex
 The protein (REGN3479_BDBV-GP) complex with the glycan (green) inbound at Asn563 (magenta) in close proximity to one of the mutant residues:A507T (red) of its epitope site. The man5
 glycan interaction with the REGN3479_BDBV GP zoomed in for a closer view of this added inbound glycan Man5.
 
