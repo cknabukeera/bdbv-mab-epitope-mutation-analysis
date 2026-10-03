@@ -25,7 +25,7 @@ This repository contains the code, data references and results for an in silico 
 - Mapping of mAb epitopes from EBOV GP onto BDBV GP,
 - AlphaFold 3 modelling of GP-antibody complexes,
 - Rosetta in silico mutagenesis and binding-energy calculations,
-- Glycosylation modelling at Asn563.
+- Glycosylation modelling at Asn563 under the Inmazeb_rosetta folder
 
 ## Data used
 ### Genome sequences
