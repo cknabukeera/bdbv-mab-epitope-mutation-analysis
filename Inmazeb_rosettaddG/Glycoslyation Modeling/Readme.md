@@ -559,6 +559,7 @@ graph LR
     B -->|Pushes Glycan Tree Outward| C[Steric Clash with mAb CDR Loops]
     C -->|Weakens Binding| D[+2.85 REU Energy Increase]
     C -->|Disrupts Fit| E[packstat drops 0.634 to 0.590]
+```
 
 ----
 # Repeating this for BDBV-GP-inmazeb AF3 prediction
