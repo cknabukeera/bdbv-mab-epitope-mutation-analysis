@@ -70,6 +70,7 @@ This analysis was extended to further 462 BDBV sequences of the 2026 Outbreak (A
 - In Inmazeb, odesivimab is predicted to bind its epitope alone, while atoltivimab and maftivimab are not. The complete trimeric cocktail is predicted to bind BDBV GP at the target epitopes.
 - Two GP substitutions were unique to the 2026 outbreak sequences: Y387H and R506S.
 - These amino acid substitutions observed in the BDBV epitopes remained consistent across a wider number of sequences from the outbreak (n=494) accessed and analysed from the Pathoplexus database as of Aug, 13th - 2026.
+ ![Inmazeb_BDBV_GP](/structures/7TN9_AF3_BDBV_GP.png)
 
 ## Methods (summary)
 
